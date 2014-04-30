@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Meipihu | xiaodou]]></title>
+  <title><![CDATA[Category: Meipihu | 小豆的小店]]></title>
   <link href="http://renhongyuq.github.io/test06/blog/categories/meipihu/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test06/"/>
-  <updated>2014-04-30T10:47:44+02:00</updated>
+  <updated>2014-04-30T10:51:45+02:00</updated>
   <id>http://renhongyuq.github.io/test06/</id>
   <author>
-    <name><![CDATA[xiaodou]]></name>
+    <name><![CDATA[小豆]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
